@@ -6,27 +6,23 @@ BlogHub is a clean, full-stack blog management web app. It features a custom sti
 
 ### 1. Home Page
 Overview of featured content, quick action banners, and recent activity.
-![Home Page](./src/assets/screenshots/home.png)
+![Home Page](./src/assets/images/Home.png)
 
 ### 2. Blog List Page
 Public directory with full-text search, category tags, sort dropdown, and pagination.
-![Blog List Page](./src/assets/screenshots/blog-list.png)
+![Blog List Page](./src/assets/images/blog-list.png)
 
 ### 3. Blog Details Page
 Individual blog view showing full post content, metadata, author details, and related tags.
-![Blog Details Page](./src/assets/screenshots/blog-details.png)
+![Blog Details Page](./src/assets/images/blog-detail.png)
 
 ### 4. Admin Dashboard
 Centralized control hub for monitoring metrics (Total, Published, Drafts) and managing post tables.
-![Admin Dashboard](./src/assets/screenshots/admin-dashboard.png)
+![Admin Dashboard](./src/assets/images/dashboard.png)
 
 ### 5. Add / Edit Blog Form
 Interactive form with real-time field validation for adding and updating posts.
-![Add and Edit Form](./src/assets/screenshots/blog-form.png)
-
-### 6. Search, Filter & Pagination
-Demonstration of dynamic filtering by category, search querying, and active pagination controls.
-![Search and Filter in Action](./src/assets/screenshots/search-filter-pagination.png)
+![Add and Edit Form](./src/assets/images/add-blog.png)
 
 ---
 
